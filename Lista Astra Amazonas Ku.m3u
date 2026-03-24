@@ -89,7 +89,7 @@ http://186.194.160.110:9002/play/a0jx/index.m3u8
 #EXTINF:-1 group-title="-",CNN International
 http://186.194.160.110:9002/play/a09s/index.m3u8
 #EXTINF:-1 group-title="-",NBC News
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 group-title="-",CableNoticias
 http://186.194.160.110:9002/play/a01n/index.m3u8
 #EXTINF:-1 group-title="-",Canal Capital
