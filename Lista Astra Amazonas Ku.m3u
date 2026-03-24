@@ -228,6 +228,8 @@ http://186.194.160.110:9002/play/a0j7/index.m3u8
 http://186.194.160.110:9002/play/a0je/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HDper
 http://179.43.96.253:8000/play/a24x/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premiun HDper
+http://179.43.96.253:8000/play/a235/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD1
 http://186.194.160.110:9002/play/a086/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HDQ
