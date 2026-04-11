@@ -242,6 +242,8 @@ http://186.194.160.110:9002/play/a0j3/index.m3u8
 http://186.194.160.110:9002/play/a0iu/index.m3u8
 #EXTINF:11,LIGA 1 MAX HDper
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="-",LIGA 1 MAX HDPER
+http://38.252.213.215:8010/play/a022
 http://179.43.96.253:8000/play/a29z/index.m3u8
 #EXTINF:-1,ESPN 2 HD PER
 http://181.224.200.5:2277/play/a02c/index.m3u8
